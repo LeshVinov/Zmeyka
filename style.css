@@ -28,7 +28,7 @@ body {
 }
 
 .head {
-    background: url(cat.jpg);
+    background: url(cat.png);
     background-size: cover;
     border-radius: 10%;
 }
