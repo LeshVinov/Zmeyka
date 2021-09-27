@@ -123,7 +123,7 @@ function createMouse() {
             alert(`Игра окончена. Ваши очки: ${score}`);
         }, 200);
         clearInterval(interval);
-        snakeBody[0].style.background = 'url(catO.jpg) center no-repeat';
+        snakeBody[0].style.background = 'url(ozono.jpg) center no-repeat';
         snakeBody[0].style.backgroundSize = "cover";
     }
 

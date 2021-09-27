@@ -22,18 +22,18 @@ body {
 }
 
 .snakeBody {
-    background: url(zmeya.jpg);
+    background: url(zmeya1.jpg);
     background-size: cover;
     border-radius: 50%;
 }
 
 .head {
-    background: url(cat.png);
+    background: url(ozon1.jpg);
     background-size: cover;
     border-radius: 10%;
 }
 
 .mouse {
-    background: url(krysa.jpg);
+    background: url(pivo.png);
     background-size: cover;   
 }
